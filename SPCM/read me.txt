@@ -2,6 +2,6 @@
 -
 (2) move setupcm.cfg to \SteamLibrary\steamapps\common\GarrysMod\garrysmod\cfg 
 -
-(3) Open GMod Console And copy ---> "exec setupcm" in the console (dont include quotation
+(3) Open GMod Console And copy ---> "exec setupcm" in the console (dont include quotation)
 -
 (4)Press H To Open Menu
