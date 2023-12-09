@@ -1,2 +1,2 @@
 # GMOD
-Gmod Lua / Cfgs
+This Is A Collection Not One Script Or Cfg
